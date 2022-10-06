@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Poppins&display=swap");
+body {
+  padding: 50px 100px;
+  background-color: bisque;
+  font-family: "Poppins";
+
+  align-items: center;
+}
+h1 {
+  text-align: center;
+  padding: 10px;
+  margin: 0px;
+}
+#textbox {
+  width: 100%;
+  border-radius: 18px;
+  border: 3.5px solid #282626;
+}
+p {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
